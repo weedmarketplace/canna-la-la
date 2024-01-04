@@ -1,0 +1,172 @@
+Ra.loading, span.loading, button.loading, button.loading:hover, a.loading:hover, span.loading:hover {
+  color: transparent !important;
+  position: relative;
+  pointer-events: none;
+   }/*pointer-events: none;*/
+  a.loading:after, span.loading:after, button.loading:after, a.loading:hover:after, span.loading:hover:after, button.loading:hover:after {
+    content: '';
+    position: absolute;
+    width: 43px;
+    height: 11px;
+    top: 50%;
+    left: 50%;
+    margin-top: -5px;
+    margin-left: -23px;
+    background-image: url("../img/ajax-loading.gif");
+    z-index: 6;
+    display: block;
+    pointer-events: none; }
+  a.loading:before, span.loading:before, button.loading:before, a.loading:hover:before, span.loading:hover:before, button.loading:hover:before {
+    content: '';
+    position: absolute;
+    display: block;
+    background-color: transparent;
+    left: -5px;
+    top: -5px;
+    right: -5px;
+    bottom: -5px;
+    z-index: 5;
+    pointer-events: none; }
+
+  .nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .content-middel{
+    text-align: center;
+}
+
+.password-lbl {
+  -webkit-text-security: disc;
+}
+.password-lbl:hover{
+  -webkit-text-security:none !important;
+}
+.popover-lbl{
+  color: #0061f2;
+  font-weight: bold;
+}
+
+table.dataTable thead,
+table.dataTable tfoot {
+  color: #0061f2;
+}
+table.dataTable .selected{
+  background: #ccf5f7 !important;
+  border-color: #b8f2f3 !important;
+  color: #006c6f !important;
+}
+#parent_id option:disabled {
+  color: #ccc;
+  font-weight: bold;
+}
+.documents .image-part{
+  display: inline-block;
+}
+.documents .image-part .img{
+  border: solid 1px #ccc;
+}
+.documents .image-part a:hover{
+  text-decoration: none!important;
+}
+.admin_checkbox{
+  width: 20px;
+  height: 20px;
+}
+.custom-select-uploader{
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+}
+.gallery-sortable-placeholder {
+  border: 2px dashed #eee;
+  display: inline-block; }
+
+.grid-sortable-placeholder {
+  border: 2px dashed #eee;
+  display: inline-block;
+  width: 100%; }
+
+.dropzone .dz-image-preview .dz-details{
+	cursor: move !important;
+}
+.dropzone .dz-image-preview .btn-block{
+	cursor: pointer !important;
+}
+#sortable-attrs li {
+  list-style-type: none;
+  cursor: pointer;
+}
+.autocomplete-container {
+  position: relative;
+  display: inline-block; /* or 'block' depending on your layout */
+}
+
+.autocomplete-items {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  top: 100%;
+  left: 0;
+  right: 0;
+}
+
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4;
+}
+
+.autocomplete-items div:hover {
+  background-color: #e9e9e9;
+}
+#clearSelection{
+  cursor: pointer;
+  position:absolute;
+  right: 5px;
+  top: 33px;
+  display: none;
+}
+
+
+.withoutHover button.badge-info.dropdown-toggle:hover, 
+.withoutHover button.badge-info.dropdown-toggle:focus {
+  background-color: #00cfd5; 
+  color: #fff;
+}
+.withoutHover button.badge-warning.dropdown-toggle:hover, 
+.withoutHover button.badge-warning.dropdown-toggle:focus {
+  background-color: #f4a100; 
+  color: #fff;
+}
+.withoutHover button.badge-success.dropdown-toggle:hover, 
+.withoutHover button.badge-success.dropdown-toggle:focus {
+  background-color: #00ac69; 
+  color: #fff;
+}
+.withoutHover button.badge-danger.dropdown-toggle:hover, 
+.withoutHover button.badge-danger.dropdown-toggle:focus {
+  background-color: #e81500; 
+  color: #fff;
+}
+
+.deleted-price{
+  text-decoration: line-through;
+  color: #ccc;
+}
+
+#categoriesContainer {
+  display: flex;
+}
+
+.category-level.main {
+  flex: 1; /* Distribute space equally between columns */
+  border-right: 1px solid #ddd; /* Optional border for separation */
+}
+.category-level label{
+  display: block;
+}

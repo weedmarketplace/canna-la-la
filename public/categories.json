@@ -1,0 +1,1034 @@
+{
+    "meta": {
+        "count": 102,
+        "number_of_pages": 1,
+        "per_page": 1000,
+        "page": 1,
+        "links": {
+            "next": null,
+            "previous": null
+        }
+    },
+    "results": [
+        {
+            "id": "0725ff5d-0bcb-46b5-ad05-ebdf31c28f50",
+            "weedmaps_id": 9,
+            "typ": "category",
+            "name": "Accessories",
+            "slug": "accessories",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "fa169c03-403e-41fc-8ff2-891481b828a1",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Adapters",
+            "slug": "adapters",
+            "group_name": "Bongs Type",
+            "mutually_exclusive": true,
+            "parent": "1b14c0e0-5ba1-4389-bdf6-9feaa583c3cc"
+        },
+        {
+            "id": "3762b6b9-0c65-43da-b29c-5107ecc1f4ae",
+            "weedmaps_id": 8,
+            "typ": "category",
+            "name": "Apparel",
+            "slug": "apparel",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "def1b5c6-86be-4c49-8d48-45a41b35f5ea",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Ash Catchers",
+            "slug": "ash-catchers",
+            "group_name": "Bongs Type",
+            "mutually_exclusive": true,
+            "parent": "1b14c0e0-5ba1-4389-bdf6-9feaa583c3cc"
+        },
+        {
+            "id": "f6deddaa-b60c-490f-9184-65a4056b5ac0",
+            "weedmaps_id": 24,
+            "typ": "category",
+            "name": "Baked Goods",
+            "slug": "baked-goods",
+            "group_name": "Edibles Type",
+            "mutually_exclusive": true,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "54a8bf8c-560d-4c6a-b05a-d0d235038097",
+            "weedmaps_id": 209,
+            "typ": "category",
+            "name": "Balms & Salves",
+            "slug": "balms-salves",
+            "group_name": "Topicals Type",
+            "mutually_exclusive": true,
+            "parent": "7d004d94-2a20-4d84-8148-898da40b537f"
+        },
+        {
+            "id": "55494aa6-7708-48d0-8434-4dc83aa2ccdd",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Banger & Nails",
+            "slug": "banger-nails",
+            "group_name": "Dab Rigs Type",
+            "mutually_exclusive": true,
+            "parent": "426a474d-f408-4b1a-b98d-6e307f75a39a"
+        },
+        {
+            "id": "620f7492-69f0-4b39-9412-54c82dbdc892",
+            "weedmaps_id": 250,
+            "typ": "category",
+            "name": "Bath",
+            "slug": "bath",
+            "group_name": "Topicals Type",
+            "mutually_exclusive": true,
+            "parent": "7d004d94-2a20-4d84-8148-898da40b537f"
+        },
+        {
+            "id": "606086fb-22a5-4f47-97a3-feaabec0730f",
+            "weedmaps_id": 7,
+            "typ": "category",
+            "name": "Batteries",
+            "slug": "batteries",
+            "group_name": "Vape Type",
+            "mutually_exclusive": true,
+            "parent": "f12d28a5-dc36-41d2-98f8-56d6cf2d8225"
+        },
+        {
+            "id": "03d1a014-df0c-446d-9069-aa6f8ba9fe63",
+            "weedmaps_id": 33,
+            "typ": "category",
+            "name": "Beverages",
+            "slug": "beverages",
+            "group_name": "Edibles Type",
+            "mutually_exclusive": true,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "d8e24cad-21ae-4770-afab-bb877c0079ab",
+            "weedmaps_id": 187,
+            "typ": "category",
+            "name": "Blunt Wrap",
+            "slug": "blunt-wrap",
+            "group_name": "Pre Roll Type",
+            "mutually_exclusive": true,
+            "parent": "b74eb425-04b9-4d44-9890-6d505bed678c"
+        },
+        {
+            "id": "4993bf60-c24d-4577-9bb9-a25eaa3ac7dc",
+            "weedmaps_id": 251,
+            "typ": "category",
+            "name": "Bombs",
+            "slug": "bombs",
+            "group_name": "Bath Type",
+            "mutually_exclusive": true,
+            "parent": "620f7492-69f0-4b39-9412-54c82dbdc892"
+        },
+        {
+            "id": "1b14c0e0-5ba1-4389-bdf6-9feaa583c3cc",
+            "weedmaps_id": 230,
+            "typ": "category",
+            "name": "Bongs",
+            "slug": "bongs",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "82a414f5-d69f-4191-bd1c-a1cf21705f1b",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Bowls",
+            "slug": "bowls",
+            "group_name": "Bongs Type",
+            "mutually_exclusive": true,
+            "parent": "1b14c0e0-5ba1-4389-bdf6-9feaa583c3cc"
+        },
+        {
+            "id": "52f6ae6b-c372-4f1d-9066-8440ac021b80",
+            "weedmaps_id": 220,
+            "typ": "category",
+            "name": "Brownies",
+            "slug": "brownies",
+            "group_name": "Baked Goods Type",
+            "mutually_exclusive": true,
+            "parent": "f6deddaa-b60c-490f-9184-65a4056b5ac0"
+        },
+        {
+            "id": "d2e45182-3aaf-4240-8308-217b128ed7eb",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Bubblers",
+            "slug": "bubblers",
+            "group_name": "Bongs Type",
+            "mutually_exclusive": true,
+            "parent": "1b14c0e0-5ba1-4389-bdf6-9feaa583c3cc"
+        },
+        {
+            "id": "19116e11-0cad-4b9b-9c3d-8ff4c90f55ec",
+            "weedmaps_id": 48,
+            "typ": "category",
+            "name": "Budder",
+            "slug": "budder",
+            "group_name": "Texture",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "c7eeb972-c888-4185-8846-1ab512965ae3",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Butter",
+            "slug": "butter",
+            "group_name": "Cooking Ingredients Type",
+            "mutually_exclusive": true,
+            "parent": "6cdaa713-f685-4eb5-9f9e-0e31cf238dd0"
+        },
+        {
+            "id": "fd6553ff-34d0-4b9b-a28f-b91d3ed8dc11",
+            "weedmaps_id": 219,
+            "typ": "category",
+            "name": "Candy",
+            "slug": "candy",
+            "group_name": "Edibles Type",
+            "mutually_exclusive": true,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "12234f4b-cbda-4dfd-a7bc-3aa5274838bb",
+            "weedmaps_id": 32,
+            "typ": "category",
+            "name": "Capsules",
+            "slug": "capsules",
+            "group_name": "Edibles Type",
+            "mutually_exclusive": true,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "4c68e722-d661-46e4-a9b5-86145b00c300",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Carb Cap",
+            "slug": "carb-cap",
+            "group_name": "Dab Rigs Type",
+            "mutually_exclusive": true,
+            "parent": "426a474d-f408-4b1a-b98d-6e307f75a39a"
+        },
+        {
+            "id": "7525d409-c93c-4189-b0a1-ebbf235f958e",
+            "weedmaps_id": 193,
+            "typ": "category",
+            "name": "Cartridge",
+            "slug": "cartridge",
+            "group_name": "Vape Type",
+            "mutually_exclusive": true,
+            "parent": "f12d28a5-dc36-41d2-98f8-56d6cf2d8225"
+        },
+        {
+            "id": "b2fc9b72-dc56-4de9-9e18-42d38e98629a",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Cereal",
+            "slug": "cereal",
+            "group_name": "Snacks Type",
+            "mutually_exclusive": true,
+            "parent": "f70d4214-6f2b-439c-bf3e-b4f7198d721e"
+        },
+        {
+            "id": "58f963f9-d6ef-4832-ae82-7f4c9375aee8",
+            "weedmaps_id": 212,
+            "typ": "category",
+            "name": "Chocolates",
+            "slug": "chocolates",
+            "group_name": "Candy Type",
+            "mutually_exclusive": true,
+            "parent": "fd6553ff-34d0-4b9b-a28f-b91d3ed8dc11"
+        },
+        {
+            "id": "4fc4b0fd-63c6-4c7e-93d4-07834ac7dbf2",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Clone",
+            "slug": "clone",
+            "group_name": "Cultivation Type",
+            "mutually_exclusive": true,
+            "parent": "dacac328-78c3-4043-be91-a3c28d3b990c"
+        },
+        {
+            "id": "4a284200-870b-466a-bd95-db521d2c5e69",
+            "weedmaps_id": 3,
+            "typ": "category",
+            "name": "Concentrates",
+            "slug": "concentrates",
+            "group_name": "Main Categories",
+            "mutually_exclusive": true,
+            "parent": null
+        },
+        {
+            "id": "e263caa5-0eec-405d-9e07-cb69a2213618",
+            "weedmaps_id": 197,
+            "typ": "category",
+            "name": "Condiments",
+            "slug": "condiments",
+            "group_name": "Cooking Ingredients Type",
+            "mutually_exclusive": true,
+            "parent": "6cdaa713-f685-4eb5-9f9e-0e31cf238dd0"
+        },
+        {
+            "id": "6f88e8c7-f2da-4b9d-8b96-4fae65b3fc8b",
+            "weedmaps_id": 203,
+            "typ": "category",
+            "name": "Cookies",
+            "slug": "cookies",
+            "group_name": "Baked Goods Type",
+            "mutually_exclusive": true,
+            "parent": "f6deddaa-b60c-490f-9184-65a4056b5ac0"
+        },
+        {
+            "id": "6cdaa713-f685-4eb5-9f9e-0e31cf238dd0",
+            "weedmaps_id": 41,
+            "typ": "category",
+            "name": "Cooking Ingredients",
+            "slug": "cooking-ingredients",
+            "group_name": "Edibles Type",
+            "mutually_exclusive": true,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "91cb60dd-cbbd-4b96-9c0f-62535e70aae6",
+            "weedmaps_id": 20,
+            "typ": "category",
+            "name": "Crumble",
+            "slug": "crumble",
+            "group_name": "Texture",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "57283cf9-5d89-405f-b0c4-bce8a25b3616",
+            "weedmaps_id": 37,
+            "typ": "category",
+            "name": "Crystalline",
+            "slug": "crystalline",
+            "group_name": "Process",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "dacac328-78c3-4043-be91-a3c28d3b990c",
+            "weedmaps_id": 249,
+            "typ": "category",
+            "name": "Cultivation",
+            "slug": "cultivation",
+            "group_name": "Main Categories",
+            "mutually_exclusive": true,
+            "parent": null
+        },
+        {
+            "id": "7a6dc472-212a-4ead-a8d7-daa16265d3f7",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Dab Mats",
+            "slug": "dab-mats",
+            "group_name": "Dab Rigs Type",
+            "mutually_exclusive": true,
+            "parent": "426a474d-f408-4b1a-b98d-6e307f75a39a"
+        },
+        {
+            "id": "426a474d-f408-4b1a-b98d-6e307f75a39a",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Dab Rigs",
+            "slug": "dab-rigs",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "cfd7b40e-58ab-4d53-8922-2aa03823ec92",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Dab Tools",
+            "slug": "dab-tools",
+            "group_name": "Dab Rigs Type",
+            "mutually_exclusive": true,
+            "parent": "426a474d-f408-4b1a-b98d-6e307f75a39a"
+        },
+        {
+            "id": "6ba45ce8-6f07-4d28-8001-1d6bf90272ee",
+            "weedmaps_id": 225,
+            "typ": "category",
+            "name": "Dairy Free",
+            "slug": "dairy-free",
+            "group_name": "Dietary",
+            "mutually_exclusive": false,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "073272f6-e10c-4869-9c64-441495b702c4",
+            "weedmaps_id": 40,
+            "typ": "category",
+            "name": "Disposable",
+            "slug": "disposable",
+            "group_name": "Vape Type",
+            "mutually_exclusive": true,
+            "parent": "f12d28a5-dc36-41d2-98f8-56d6cf2d8225"
+        },
+        {
+            "id": "7ba25087-42a1-4622-97fc-c49474d69178",
+            "weedmaps_id": 34,
+            "typ": "category",
+            "name": "Distillate",
+            "slug": "distillate",
+            "group_name": "Texture",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "8a5939e1-5822-4799-956b-a7c6b4404b46",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Downstems",
+            "slug": "downstems",
+            "group_name": "Bongs Type",
+            "mutually_exclusive": true,
+            "parent": "1b14c0e0-5ba1-4389-bdf6-9feaa583c3cc"
+        },
+        {
+            "id": "cea3c7d4-460f-4ace-bed4-1428b73097fe",
+            "weedmaps_id": 188,
+            "typ": "category",
+            "name": "Drinks",
+            "slug": "drinks",
+            "group_name": "Beverages Type",
+            "mutually_exclusive": true,
+            "parent": "03d1a014-df0c-446d-9069-aa6f8ba9fe63"
+        },
+        {
+            "id": "bad128be-a44b-415e-bf81-a88ba6e522d3",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Dry Sift",
+            "slug": "dry-sift",
+            "group_name": "Process",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "9f21a3dd-9240-4681-be81-deb43b36d513",
+            "weedmaps_id": 254,
+            "typ": "category",
+            "name": "Edible Oils",
+            "slug": "edible-oils",
+            "group_name": "Edibles Type",
+            "mutually_exclusive": true,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "3dce0614-7c15-428f-8c32-fd6802d0b75e",
+            "weedmaps_id": 5,
+            "typ": "category",
+            "name": "Edibles",
+            "slug": "edibles",
+            "group_name": "Main Categories",
+            "mutually_exclusive": true,
+            "parent": null
+        },
+        {
+            "id": "d3970b18-f7c8-45da-b7ab-96c8b83b6775",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "E-nails",
+            "slug": "e-nails",
+            "group_name": "Dab Rigs Type",
+            "mutually_exclusive": true,
+            "parent": "426a474d-f408-4b1a-b98d-6e307f75a39a"
+        },
+        {
+            "id": "a780af3d-bdfe-41ce-a782-20f2519fd7be",
+            "weedmaps_id": 2,
+            "typ": "category",
+            "name": "Flower",
+            "slug": "flower",
+            "group_name": "Main Categories",
+            "mutually_exclusive": true,
+            "parent": null
+        },
+        {
+            "id": "286ea82f-3963-4468-8d18-bd7ef61c0759",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Fresh Frozen",
+            "slug": "fresh-frozen",
+            "group_name": "Cultivation Type",
+            "mutually_exclusive": true,
+            "parent": "dacac328-78c3-4043-be91-a3c28d3b990c"
+        },
+        {
+            "id": "e7556557-af8b-4be5-8083-41f3a47940a2",
+            "weedmaps_id": 234,
+            "typ": "category",
+            "name": "Gear",
+            "slug": "gear",
+            "group_name": "Main Categories",
+            "mutually_exclusive": true,
+            "parent": null
+        },
+        {
+            "id": "a4a3db18-6ec5-4a1d-a69d-e9d51bea1e3f",
+            "weedmaps_id": 224,
+            "typ": "category",
+            "name": "Gluten Free",
+            "slug": "gluten-free",
+            "group_name": "Dietary",
+            "mutually_exclusive": false,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "2c38b4c1-fe7b-4fed-bdf8-5511a25dabbe",
+            "weedmaps_id": 243,
+            "typ": "category",
+            "name": "Grinders",
+            "slug": "grinders",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "d1934663-b03c-440f-a4fa-a3857d6ec56f",
+            "weedmaps_id": 22,
+            "typ": "category",
+            "name": "Gummies",
+            "slug": "gummies",
+            "group_name": "Candy Type",
+            "mutually_exclusive": true,
+            "parent": "fd6553ff-34d0-4b9b-a28f-b91d3ed8dc11"
+        },
+        {
+            "id": "541dba17-631f-48b3-8cea-4536755a5c5b",
+            "weedmaps_id": 244,
+            "typ": "category",
+            "name": "Hats",
+            "slug": "hats",
+            "group_name": "Apparel Type",
+            "mutually_exclusive": true,
+            "parent": "3762b6b9-0c65-43da-b29c-5107ecc1f4ae"
+        },
+        {
+            "id": "1c198306-e410-4920-a8cc-251d70bbce7a",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Hoodies",
+            "slug": "hoodies",
+            "group_name": "Apparel Type",
+            "mutually_exclusive": true,
+            "parent": "3762b6b9-0c65-43da-b29c-5107ecc1f4ae"
+        },
+        {
+            "id": "8193cd68-edb8-4004-a52c-e3c8848a01a6",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Ice Cream",
+            "slug": "ice-cream",
+            "group_name": "Snacks Type",
+            "mutually_exclusive": true,
+            "parent": "f70d4214-6f2b-439c-bf3e-b4f7198d721e"
+        },
+        {
+            "id": "a9f353bc-0732-4bd8-8eb9-c8a98414ca89",
+            "weedmaps_id": 46,
+            "typ": "category",
+            "name": "Ice Hash",
+            "slug": "ice-hash",
+            "group_name": "Process",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "3db88e0d-16d9-472a-bd76-18e62eca5203",
+            "weedmaps_id": 39,
+            "typ": "category",
+            "name": "Infused Flower",
+            "slug": "infused-flower",
+            "group_name": "Flower Type",
+            "mutually_exclusive": true,
+            "parent": "a780af3d-bdfe-41ce-a782-20f2519fd7be"
+        },
+        {
+            "id": "af1da756-f390-4a05-8f59-3addb33ed1db",
+            "weedmaps_id": 186,
+            "typ": "category",
+            "name": "Infused Pre Roll",
+            "slug": "infused-pre-roll",
+            "group_name": "Pre Roll Type",
+            "mutually_exclusive": true,
+            "parent": "b74eb425-04b9-4d44-9890-6d505bed678c"
+        },
+        {
+            "id": "65aa3eeb-21e5-403b-b5d5-6ef19736016f",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Jar",
+            "slug": "jar",
+            "group_name": "Distillate Type",
+            "mutually_exclusive": true,
+            "parent": "7ba25087-42a1-4622-97fc-c49474d69178"
+        },
+        {
+            "id": "fb44f406-c5fe-42f3-8b7e-5a3214eca617",
+            "weedmaps_id": 208,
+            "typ": "category",
+            "name": "Kosher",
+            "slug": "kosher",
+            "group_name": "Dietary",
+            "mutually_exclusive": false,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "54c725f8-6438-489b-910b-6a5c2ded40f2",
+            "weedmaps_id": 28,
+            "typ": "category",
+            "name": "Live Resin",
+            "slug": "live-resin",
+            "group_name": "Material",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "0e59f615-846a-4f84-9b47-50679ad46283",
+            "weedmaps_id": 210,
+            "typ": "category",
+            "name": "Lotions",
+            "slug": "lotions",
+            "group_name": "Topicals Type",
+            "mutually_exclusive": true,
+            "parent": "7d004d94-2a20-4d84-8148-898da40b537f"
+        },
+        {
+            "id": "34451596-8b12-43f0-a515-d710b94b90e3",
+            "weedmaps_id": 229,
+            "typ": "category",
+            "name": "Lubricants & Oils",
+            "slug": "lubricants-oils",
+            "group_name": "Topicals Type",
+            "mutually_exclusive": true,
+            "parent": "7d004d94-2a20-4d84-8148-898da40b537f"
+        },
+        {
+            "id": "57dee89a-2636-4d2e-9fcd-e7ab85e15a74",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Men's",
+            "slug": "men-s",
+            "group_name": "Gender",
+            "mutually_exclusive": true,
+            "parent": "3762b6b9-0c65-43da-b29c-5107ecc1f4ae"
+        },
+        {
+            "id": "002bbbe7-8b40-4ead-96f9-821e06bac541",
+            "weedmaps_id": 235,
+            "typ": "category",
+            "name": "Mints & Gum",
+            "slug": "mints-gum",
+            "group_name": "Candy Type",
+            "mutually_exclusive": true,
+            "parent": "fd6553ff-34d0-4b9b-a28f-b91d3ed8dc11"
+        },
+        {
+            "id": "469fac50-6660-4abb-b273-549f17c6087d",
+            "weedmaps_id": 214,
+            "typ": "category",
+            "name": "Nug Run",
+            "slug": "nug-run",
+            "group_name": "Material",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "b30688eb-4f4a-43e8-8e6e-78284203e6a8",
+            "weedmaps_id": 207,
+            "typ": "category",
+            "name": "Nut Free",
+            "slug": "nut-free",
+            "group_name": "Dietary",
+            "mutually_exclusive": false,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "049863f2-391a-466c-8ee0-1e5003188af2",
+            "weedmaps_id": 255,
+            "typ": "category",
+            "name": "Oral Spray",
+            "slug": "oral-spray",
+            "group_name": "Oils Type",
+            "mutually_exclusive": true,
+            "parent": "9f21a3dd-9240-4681-be81-deb43b36d513"
+        },
+        {
+            "id": "c72c7b28-3554-4c88-8a54-288108a1c287",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Paleo Edibles",
+            "slug": "paleo-edibles",
+            "group_name": "Dietary",
+            "mutually_exclusive": false,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "a138edd1-059d-45c9-97e8-a34d009e6a5d",
+            "weedmaps_id": 228,
+            "typ": "category",
+            "name": "Patches",
+            "slug": "patches",
+            "group_name": "Topicals Type",
+            "mutually_exclusive": true,
+            "parent": "7d004d94-2a20-4d84-8148-898da40b537f"
+        },
+        {
+            "id": "1a0ff6ce-7606-4731-801e-9a3c661f50ae",
+            "weedmaps_id": 238,
+            "typ": "category",
+            "name": "Pipes",
+            "slug": "pipes",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "1aac1154-7d52-4d77-8624-6cd42fc7b3f7",
+            "weedmaps_id": 201,
+            "typ": "category",
+            "name": "Pods",
+            "slug": "pods",
+            "group_name": "Vape Type",
+            "mutually_exclusive": true,
+            "parent": "f12d28a5-dc36-41d2-98f8-56d6cf2d8225"
+        },
+        {
+            "id": "f9585458-88a5-40b1-9fc0-ad5b37aa1c78",
+            "weedmaps_id": 191,
+            "typ": "category",
+            "name": "Powder",
+            "slug": "powder",
+            "group_name": "Beverages Type",
+            "mutually_exclusive": true,
+            "parent": "03d1a014-df0c-446d-9069-aa6f8ba9fe63"
+        },
+        {
+            "id": "b74eb425-04b9-4d44-9890-6d505bed678c",
+            "weedmaps_id": 185,
+            "typ": "category",
+            "name": "Pre Roll",
+            "slug": "pre-roll",
+            "group_name": "Flower Type",
+            "mutually_exclusive": true,
+            "parent": "a780af3d-bdfe-41ce-a782-20f2519fd7be"
+        },
+        {
+            "id": "4afdaea6-2aed-48ba-8c84-ba0ab43e91f4",
+            "weedmaps_id": 218,
+            "typ": "category",
+            "name": "Pull",
+            "slug": "pull",
+            "group_name": "Batteries Type",
+            "mutually_exclusive": true,
+            "parent": "606086fb-22a5-4f47-97a3-feaabec0730f"
+        },
+        {
+            "id": "240ec844-66d1-46f4-ad12-b000c573f8b0",
+            "weedmaps_id": 202,
+            "typ": "category",
+            "name": "Push Button",
+            "slug": "push-button",
+            "group_name": "Batteries Type",
+            "mutually_exclusive": true,
+            "parent": "606086fb-22a5-4f47-97a3-feaabec0730f"
+        },
+        {
+            "id": "790e5cb5-2708-49b6-9abb-7630e38dc40a",
+            "weedmaps_id": 241,
+            "typ": "category",
+            "name": "Rolling Papers",
+            "slug": "rolling-papers",
+            "group_name": "Accessories Type",
+            "mutually_exclusive": true,
+            "parent": "0725ff5d-0bcb-46b5-ad05-ebdf31c28f50"
+        },
+        {
+            "id": "0284c390-b134-45e6-845b-ace0b53b2827",
+            "weedmaps_id": 42,
+            "typ": "category",
+            "name": "Rosin",
+            "slug": "rosin",
+            "group_name": "Process",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "d2631841-dcaa-4d6f-94f9-a6f46947e6c9",
+            "weedmaps_id": 50,
+            "typ": "category",
+            "name": "Sauce",
+            "slug": "sauce",
+            "group_name": "Texture",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "41ba1db3-07df-4f6f-81a7-ddb69c335c79",
+            "weedmaps_id": 247,
+            "typ": "category",
+            "name": "Seeds",
+            "slug": "seeds",
+            "group_name": "Cultivation Type",
+            "mutually_exclusive": true,
+            "parent": "dacac328-78c3-4043-be91-a3c28d3b990c"
+        },
+        {
+            "id": "90f46ddd-c7fb-410b-8c9b-6606c71ac647",
+            "weedmaps_id": 184,
+            "typ": "category",
+            "name": "Shake",
+            "slug": "shake",
+            "group_name": "Flower Type",
+            "mutually_exclusive": true,
+            "parent": "a780af3d-bdfe-41ce-a782-20f2519fd7be"
+        },
+        {
+            "id": "95cdbd0c-42bd-4b59-b532-84b36e4da7ed",
+            "weedmaps_id": 12,
+            "typ": "category",
+            "name": "Shatter",
+            "slug": "shatter",
+            "group_name": "Texture",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "24efa4dc-9dfa-4d5f-a2b4-6eeb384c21cf",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Shirts",
+            "slug": "shirts",
+            "group_name": "Apparel Type",
+            "mutually_exclusive": true,
+            "parent": "3762b6b9-0c65-43da-b29c-5107ecc1f4ae"
+        },
+        {
+            "id": "f70d4214-6f2b-439c-bf3e-b4f7198d721e",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Snacks",
+            "slug": "snacks",
+            "group_name": "Edibles Type",
+            "mutually_exclusive": true,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "a64be399-b085-4489-b14b-f25231c12c1a",
+            "weedmaps_id": 252,
+            "typ": "category",
+            "name": "Soaking Salts",
+            "slug": "soaking-salts",
+            "group_name": "Bath Type",
+            "mutually_exclusive": true,
+            "parent": "620f7492-69f0-4b39-9412-54c82dbdc892"
+        },
+        {
+            "id": "65e7e89a-278d-4ee0-bd99-910dee5a338f",
+            "weedmaps_id": 227,
+            "typ": "category",
+            "name": "Sprays",
+            "slug": "sprays",
+            "group_name": "Topicals Type",
+            "mutually_exclusive": true,
+            "parent": "7d004d94-2a20-4d84-8148-898da40b537f"
+        },
+        {
+            "id": "f74f4c62-a69c-4e64-a3f3-c678c86862b7",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Stickers",
+            "slug": "stickers",
+            "group_name": "Accessories Type",
+            "mutually_exclusive": true,
+            "parent": "0725ff5d-0bcb-46b5-ad05-ebdf31c28f50"
+        },
+        {
+            "id": "7330fdc3-0fa3-409c-9a58-c5338c4ec018",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Storage",
+            "slug": "storage",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "b74922a3-b4d2-4028-b22c-840fa9a5cd74",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Sugar Free",
+            "slug": "sugar-free",
+            "group_name": "Dietary",
+            "mutually_exclusive": false,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "f26307f7-23be-452a-ad08-9ee35dfede57",
+            "weedmaps_id": 217,
+            "typ": "category",
+            "name": "Sugar Leaf",
+            "slug": "sugar-leaf",
+            "group_name": "Material",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "1b8f39b0-6ae6-451e-b939-b84359bd2096",
+            "weedmaps_id": 199,
+            "typ": "category",
+            "name": "Syringe",
+            "slug": "syringe",
+            "group_name": "Distillate Type",
+            "mutually_exclusive": true,
+            "parent": "7ba25087-42a1-4622-97fc-c49474d69178"
+        },
+        {
+            "id": "40717c9e-339d-45d6-a32f-10eb044d2550",
+            "weedmaps_id": 194,
+            "typ": "category",
+            "name": "Syrup",
+            "slug": "syrup",
+            "group_name": "Beverages Type",
+            "mutually_exclusive": true,
+            "parent": "03d1a014-df0c-446d-9069-aa6f8ba9fe63"
+        },
+        {
+            "id": "a41cf614-253d-4f34-8ac9-71eb8899d2fe",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Taffy",
+            "slug": "taffy",
+            "group_name": "Texture",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "672bb9ca-e410-40b6-be4d-eaec0662e515",
+            "weedmaps_id": 189,
+            "typ": "category",
+            "name": "Tincture",
+            "slug": "tincture",
+            "group_name": "Oils Type",
+            "mutually_exclusive": true,
+            "parent": "9f21a3dd-9240-4681-be81-deb43b36d513"
+        },
+        {
+            "id": "7d004d94-2a20-4d84-8148-898da40b537f",
+            "weedmaps_id": 23,
+            "typ": "category",
+            "name": "Topicals",
+            "slug": "topicals",
+            "group_name": "Main Categories",
+            "mutually_exclusive": true,
+            "parent": null
+        },
+        {
+            "id": "c834b3fe-6314-4b6b-bcab-ca61d9db29a3",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Torches",
+            "slug": "torches",
+            "group_name": "Dab Rigs Type",
+            "mutually_exclusive": true,
+            "parent": "426a474d-f408-4b1a-b98d-6e307f75a39a"
+        },
+        {
+            "id": "833c78d6-30f0-4d34-87ce-0fe053f2f01c",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Treats",
+            "slug": "treats",
+            "group_name": "Baked Goods Type",
+            "mutually_exclusive": true,
+            "parent": "f6deddaa-b60c-490f-9184-65a4056b5ac0"
+        },
+        {
+            "id": "58a66d6e-572e-4870-b163-3bebeb26163c",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Trim",
+            "slug": "trim",
+            "group_name": "Cultivation Type",
+            "mutually_exclusive": true,
+            "parent": "dacac328-78c3-4043-be91-a3c28d3b990c"
+        },
+        {
+            "id": "d3b97084-9315-406e-84e1-1b41b0b2209e",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Trim Run",
+            "slug": "trim-run",
+            "group_name": "Material",
+            "mutually_exclusive": true,
+            "parent": "4a284200-870b-466a-bd95-db521d2c5e69"
+        },
+        {
+            "id": "f12d28a5-dc36-41d2-98f8-56d6cf2d8225",
+            "weedmaps_id": 4,
+            "typ": "category",
+            "name": "Vape Pens",
+            "slug": "vape-pens",
+            "group_name": "Main Categories",
+            "mutually_exclusive": true,
+            "parent": null
+        },
+        {
+            "id": "34322716-1aad-4a26-8b81-318c869ea0a4",
+            "weedmaps_id": 239,
+            "typ": "category",
+            "name": "Vaporizer",
+            "slug": "vaporizer",
+            "group_name": "Gear Type",
+            "mutually_exclusive": true,
+            "parent": "e7556557-af8b-4be5-8083-41f3a47940a2"
+        },
+        {
+            "id": "8172feb1-d68a-4b19-b103-f2fd9ffa8f0b",
+            "weedmaps_id": 316,
+            "typ": "category",
+            "name": "Vegan",
+            "slug": "vegan",
+            "group_name": "Dietary",
+            "mutually_exclusive": false,
+            "parent": "3dce0614-7c15-428f-8c32-fd6802d0b75e"
+        },
+        {
+            "id": "99c3123c-7162-44e7-9e26-e4627c802901",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Whole Plant",
+            "slug": "whole-plant",
+            "group_name": "Cultivation Type",
+            "mutually_exclusive": true,
+            "parent": "dacac328-78c3-4043-be91-a3c28d3b990c"
+        },
+        {
+            "id": "339278a1-525c-41e7-bfc9-07cac5ae69cb",
+            "weedmaps_id": 0,
+            "typ": "category",
+            "name": "Women's",
+            "slug": "women-s",
+            "group_name": "Gender",
+            "mutually_exclusive": true,
+            "parent": "3762b6b9-0c65-43da-b29c-5107ecc1f4ae"
+        }
+    ]
+}

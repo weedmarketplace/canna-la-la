@@ -1,0 +1,13 @@
+/node_modules
+/public/content
+/public/products
+/public/pairing
+/public/brend
+/storage/*.key
+/storage/logs
+/vendor
+.env
+composer.lock
+Homestead.json
+Homestead.yaml
+.idea

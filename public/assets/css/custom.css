@@ -1,0 +1,270 @@
+a.loading, span.loading, button.loading, button.loading:hover, a.loading:hover, span.loading:hover {
+    color: transparent !important;
+    position: relative;
+    pointer-events: none;
+     }/*pointer-events: none;*/
+    a.loading:after, span.loading:after, button.loading:after, a.loading:hover:after, span.loading:hover:after, button.loading:hover:after {
+      content: '';
+      position: absolute;
+      width: 43px;
+      height: 11px;
+      top: 50%;
+      left: 50%;
+      margin-top: -5px;
+      margin-left: -23px;
+      background-image: url("../images/ajax-loading.gif");
+      z-index: 6;
+      display: block;
+      pointer-events: none; }
+    a.loading:before, span.loading:before, button.loading:before, a.loading:hover:before, span.loading:hover:before, button.loading:hover:before {
+      content: '';
+      position: absolute;
+      display: block;
+      background-color: transparent;
+      left: -5px;
+      top: -5px;
+      right: -5px;
+      bottom: -5px;
+      z-index: 5;
+      pointer-events: none; }
+
+.removeBefore::before{
+    content: none !important;
+}
+.product-box-3 .product-header .product-image .product-option li{
+    width: 50% !important;
+}
+
+/* header .onhover-category-list .onhover-category-box ul ul{ */
+    /* gap:calc(8px + (11 - 4) * ((100vw - 320px) / (1920 - 320))); */
+    /* padding-left: 20px;
+} */
+
+/* .dynamic-list {
+    column-count: 2;
+    column-gap: 20px; */
+    /* Add other styling properties as needed */
+/* } */
+span.error{
+    /* position:absolute; */
+    color: red;
+}
+.filedError{
+    border-color: red !important;
+}
+.cat-lvl2{
+    margin-left: 20px;
+}
+.cat-lvl3{
+    margin-left: 20px;
+}
+.custom-height{
+    max-height: 300px !important;
+}
+.irs-hidden-input{
+    display: none !important;
+}
+#view del{
+    margin-left: 10px;
+}
+.onhover-dropdown.empty-cart:hover .onhover-div {
+    opacity: 0;
+    visibility: hidden;
+}
+.drop-contain{
+    min-width: 160px !important;
+}
+#mainCartList{
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+/* Scroll style */
+
+::-webkit-scrollbar {
+    width: 3px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+.sub-item{
+    font-weight:700 !important;
+}
+.child-item{
+    padding-left: 10px;
+    font-weight:500 !important;
+}
+header .onhover-category-list .onhover-category-box ul li::after{
+    content: none !important;
+}
+.category-list ul ul{
+    padding-top: 5px;
+}
+.couponCodeError{
+    display: block;
+}
+.product-attr-filed{
+    margin-left: 5px;
+    color: #222;
+    font-weight: 500;
+}
+.product-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.cannabinoid-placeholder {
+    visibility: hidden; /* Hidden but still occupies space */
+}
+.breadcrumb-item a:hover{
+    color: #0da487 !important;
+}
+.recent-post-box .recent-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.recent-post-box .recent-box .recent-image {
+    width: 110px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.recent-post-box .recent-box .recent-detail {
+    padding-left: 15px;
+    width: calc(100% - 110px);
+}
+.recent-post-box .recent-box .recent-detail a {
+    color: #222;
+}
+.recent-post-box .recent-box .recent-detail h6 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 8px;
+    color: #4a5568;
+}
+.recent-post-box .recent-box .recent-detail a h5 {
+    font-weight: 600;
+    line-height: 1.45;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+}
+/* Apply margin to all .recent-post-box */
+#recent-blog-con .recent-post-box {
+    margin-top: 20px;
+}
+
+/* Reset margin for the first .recent-post-box */
+#recent-blog-con .recent-post-box:first-of-type {
+    margin-top: 0 !important;
+}
+.recent-post-box .recent-box .recent-image img {
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.recent-post-box .recent-box:hover .recent-image img {
+    transform: scale(1.1) rotate(4deg);
+}
+@keyframes flyToCart {
+    0% {
+        opacity: 1;
+        transform: translate(0, 0) scale(1);
+    }
+    100% {
+        opacity: 0;
+        transform: translate(Xpx, Ypx) scale(0);
+    }
+}
+.flying-icon {
+    position: absolute;
+    z-index: 9999;
+    /* animation: flyToCart 5s forwards; */
+}
+#contactPage input, #contactPage textarea{
+    padding-left: 20px !important;
+}
+.header-nav .header-nav-left .category-dropdown.show{
+    overflow-y: auto;
+}
+.header-nav .header-nav-left .category-dropdown .category-list li a .according-menu{
+    display: none;
+}
+.product-list-section.list-style>div .product-box-3 .product-footer .product-detail .span-name {
+    display: block !important;
+}
+.user-dashboard-section .dashboard-left-sidebar.show{
+    z-index: 9999;
+}
+.simple-linke:hover{
+    color: #0da487;
+}
+.limitTextLi{
+    white-space: initial !important;
+    /* max-width: 140px; */
+    /* -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical; */
+    /* word-wrap:break-word; */
+    /* overflow: hidden; */
+    /* display: -webkit-box; */
+}
+.limitText{
+    max-width: 150px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+}
+/* .coupon-cart{
+    position: relative;
+}
+*/
+#coupon_error_con{
+    display: block;
+    width: 100%;
+}
+#header-logo{
+    position: absolute;
+    top:-9px;
+    width: 100px !important;
+}
+#footer-logo{
+    width: 100px !important;
+}
+
+@media (max-width: 767px) {
+    #header-logo{
+        top: -13px;
+        width: 75px !important;
+        left: calc(50% - 37.5px);
+    }
+}
+@media (min-width: 768px ) and (max-width: 1199px) {
+    #header-logo{
+        width: 86px !important;
+        top: -18px;
+    }
+}
